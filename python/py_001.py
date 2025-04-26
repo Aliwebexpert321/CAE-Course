@@ -1,4 +1,1 @@
-a = 5 
-b = 6 
-result = a + b
-print(result)
+print("YOur name is(input("enter your first  name ") ) , (input("enter your second name ")) , (int(input("enter your age "))*12) )
